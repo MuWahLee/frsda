@@ -1,0 +1,1 @@
+[24-Jun-2015 10:00:32 UTC] PHP Parse error:  syntax error, unexpected ''From: '' (T_CONSTANT_ENCAPSED_STRING) in /home/frsda/public_html/staging/frsda/php/email-sender.php on line 31
