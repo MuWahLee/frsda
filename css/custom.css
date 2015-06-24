@@ -7,3 +7,18 @@ Created:December 2014
 License URI:http://support.wrapbootstrap.com/
 File Description: Place here your custom CSS styles
 */
+
+
+
+/* kept "phone" number within Header, but removed its dropdown-toggle Class  */
+
+.transparent-header .header:not(.dark) ul.navbar-nav li.phone a {
+ 	color:        #24a828;
+ 	padding-left: 100px;
+ 	font-family: 'Raleway', sans-serif;
+}
+
+/* change outline of Header social-link circles to green */
+.social-links.circle li a {
+	border-color: #24a828;
+}

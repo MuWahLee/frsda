@@ -510,7 +510,7 @@ tbody {
   }
   .with-dropdown-buttons .header-dropdown-buttons {
     position: absolute;
-    top: 18px;
+/*    top: 18px;*/
     right: 0px;
   }
   /*Full width Header*/
