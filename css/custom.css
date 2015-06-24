@@ -22,3 +22,8 @@ File Description: Place here your custom CSS styles
 .social-links.circle li a {
 	border-color: #24a828;
 }
+
+
+.footer h2.title {
+	font-size: 28px;
+}
