@@ -13,9 +13,10 @@ File Description: Place here your custom CSS styles
 /* kept "phone" number within Header, but removed its dropdown-toggle Class  */
 
 .transparent-header .header:not(.dark) ul.navbar-nav li.phone a {
- 	color:        #24a828;
- 	padding-left: 100px;
- 	font-family: 'Raleway', sans-serif;
+ 	color:         #24a828;
+ 	padding-left:  50px;
+ 	padding-right: 50px;
+ 	font-family:   'Raleway', sans-serif;
 }
 
 /* change outline of Header social-link circles to green */
@@ -27,3 +28,38 @@ File Description: Place here your custom CSS styles
 .footer h2.title {
 	font-size: 28px;
 }
+
+
+/* change styling on navbar social links only*/
+ul.navbar-nav li.facebook a,
+ul.navbar-nav li.twitter a,
+ul.navbar-nav li.linkedin a,
+ul.navbar-nav li.googleplus a {
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+ul.navbar-nav .fa-facebook,
+ul.navbar-nav .fa-twitter,
+ul.navbar-nav .fa-linkedin,
+ul.navbar-nav .fa-google-plus {
+	color: #24a828;
+}
+
+ul.navbar-nav .fa-facebook:hover {
+	color: #3b5998;
+}
+
+ul.navbar-nav .fa-twitter:hover {
+	color: #55acee;
+}
+
+ul.navbar-nav .fa-linkedin:hover {
+	color: #0976b4;
+}
+
+ul.navbar-nav .fa-google-plus:hover {
+	color: #dd4b39;
+}
+
+
