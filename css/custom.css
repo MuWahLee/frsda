@@ -39,26 +39,26 @@ ul.navbar-nav li.googleplus a {
 	padding-right: 5px;
 }
 
-ul.navbar-nav .fa-facebook,
-ul.navbar-nav .fa-twitter,
-ul.navbar-nav .fa-linkedin,
-ul.navbar-nav .fa-google-plus {
+ul.navbar-nav .fa-facebook:hover,
+ul.navbar-nav .fa-twitter:hover,
+ul.navbar-nav .fa-linkedin:hover,
+ul.navbar-nav .fa-google-plus:hover {
 	color: #24a828;
 }
 
-ul.navbar-nav .fa-facebook:hover {
+ul.navbar-nav .fa-facebook {
 	color: #3b5998;
 }
 
-ul.navbar-nav .fa-twitter:hover {
+ul.navbar-nav .fa-twitter{
 	color: #55acee;
 }
 
-ul.navbar-nav .fa-linkedin:hover {
+ul.navbar-nav .fa-linkedinover {
 	color: #0976b4;
 }
 
-ul.navbar-nav .fa-google-plus:hover {
+ul.navbar-nav .fa-google-plus {
 	color: #dd4b39;
 }
 
