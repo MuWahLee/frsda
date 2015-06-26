@@ -212,7 +212,7 @@ a:active {
   transition: none !important;
 }
 img {
-  display: block;
+/*  display: block;*/
   max-width: 100%;
   height: auto;
 }
